@@ -22,7 +22,7 @@ Eg: The input sent by the client doesn’t honor the rules of the http protocol.
 
 
 # How to use it:
-Step1: install ExceptionHandler package from http://tm00049vma:5000/
+Step1: install ExceptionHandler package from 
 
 Step2: Open Startup.cs file of your project,
 
